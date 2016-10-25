@@ -3,12 +3,13 @@ title: Gitit Bigger: 最好的个人Wiki/文档方案（Git、Markdown、Bootstr
 categories: gitit, wiki, gitit-bigger
 ...
 
-# Gitit Bigger: 最好的个人Wiki/文档方案（Git、Markdown、Bootstrap、Ace、Docker）
-
 > *文章略长，包括诸多环节。如果只想快速开始一个项目，请参考 `Quick Start` 小节。*
 > *如有改动，将会第一时间在 [http://wiki.shajiquan.com/gitit-bigger](http://wiki.shajiquan.com/gitit-bigger) 体现。*
 
 # Gitit Bigger
+
+Gitit Bigger： 最好的个人Wiki/文档方案（Git、Markdown、Bootstrap、Ace、Docker）
+
 Gitit Bigger: Git and Markdown based wiki, Bootstrap, ace Editor, syntax highlight and docker deploy support.
 
 基于 Git 和 Markdown 的超棒的 Wiki 系统，Bootstrap、Ace 编辑器等增强，支持 Docker 部署。
